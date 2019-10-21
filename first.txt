@@ -3,3 +3,5 @@ Hello world
 
 new changes
 changes for merge-commit
+
+new changes for rebase

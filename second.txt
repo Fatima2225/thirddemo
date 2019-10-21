@@ -1,1 +1,2 @@
 hello dream world
+changes for merge commit

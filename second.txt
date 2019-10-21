@@ -1,2 +1,3 @@
 hello dream world
 changes for merge commit
+changes for rebase

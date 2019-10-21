@@ -1,2 +1,3 @@
 new file add for reset hard
 changes for fast-forward
+changes for merge commit
